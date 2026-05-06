@@ -1,0 +1,14 @@
+{
+    "users": [
+        {
+            "username": "admin",
+            "password": "$2b$12$6PrN8JwzmCpafaZFDZAxqe9XCA93pK1IO5rsQgyCOchuKpQimsk0e",
+            "role": "admin"
+        },
+        {
+            "username": "venkatesh",
+            "password": "$2b$12$AirzggtWtK8iV/7X2ZRADOfUoWrp/8dLZ5OoO5Wt/itK13NyPSUvi",
+            "role": "employee"
+        }
+    ]
+}
